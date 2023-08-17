@@ -1,5 +1,7 @@
-# odin-recipes
-Recipes Project for The Odin Project
+# Recipes List
 
-This project is a practice exercise to create a recipes webpage as part of The Odin Project
+## Links
+- [Link to the Assignment](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes)
 
+## About
+A simple webpage made as part of the foundations course on the Odin Project. Clicking on a recipe link will show the instructions and ingredients required to make the dish.
