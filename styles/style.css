@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+div{
+    font-family: "Verdana", sans-serif;
+    text-align: left;
+    padding: 5px 5px 5px 25px;
+}
+
+.ingredients{
+    background-color:  #F5F2F0;
+}
+
+.description .text{
+    font-style: italic;
+}
